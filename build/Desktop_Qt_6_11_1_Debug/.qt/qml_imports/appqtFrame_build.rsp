@@ -1,0 +1,14 @@
+-rootPath
+/home/firatozk/qtFrame
+-cmake-output
+-output-file
+/home/firatozk/qtFrame/build/Desktop_Qt_6_11_1_Debug/.qt/qml_imports/appqtFrame_build.cmake
+-importPath
+/home/firatozk/qtFrame/build/Desktop_Qt_6_11_1_Debug
+-importPath
+/home/firatozk/qtFrame/build/Desktop_Qt_6_11_1_Debug/qtFrame
+-importPath
+/home/firatozk/Qt/6.11.1/gcc_64/qml
+-qrcFiles
+/home/firatozk/qtFrame/build/Desktop_Qt_6_11_1_Debug/.qt/rcc/qmake_qtFrame.qrc
+/home/firatozk/qtFrame/build/Desktop_Qt_6_11_1_Debug/.qt/rcc/appqtFrame_raw_qml_0.qrc

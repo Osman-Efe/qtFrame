@@ -1,0 +1,6 @@
+module qtFrame
+typeinfo appqtFrame.qmltypes
+prefer :/qt/qml/qtFrame/
+Main 254.0 Main.qml
+depends QtQuick
+

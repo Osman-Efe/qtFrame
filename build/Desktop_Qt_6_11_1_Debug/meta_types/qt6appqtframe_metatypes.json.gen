@@ -1,0 +1,35 @@
+[
+    {
+        "classes": [
+            {
+                "className": "NativeBridge",
+                "lineNumber": 15,
+                "methods": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "count",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 0,
+                        "lineNumber": 21,
+                        "name": "runAnalysisDirect",
+                        "returnType": "QVariantMap"
+                    }
+                ],
+                "object": true,
+                "qualifiedClassName": "NativeBridge",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "nativeBridge.h",
+        "outputRevision": 69
+    }
+]

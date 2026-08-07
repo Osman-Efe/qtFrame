@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/qtFrame/">
+    <file alias="Main.qml">/home/firatozk/qtFrame/Main.qml</file>
+  </qresource>
+</RCC>
+
