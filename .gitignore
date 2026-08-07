@@ -1,0 +1,7 @@
+.qtcreator
+build/Desktop_Qt_6_11_1_Debug
+importedcontent
+numberOperation
+build/
+*.user
+*.o
