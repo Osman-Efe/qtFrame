@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/qtFrame">
-    <file alias="qmldir">/home/firatozk/qtFrame/build/Desktop_Qt_6_11_1_Debug/qtFrame/qmldir</file>
-  </qresource>
-</RCC>
-

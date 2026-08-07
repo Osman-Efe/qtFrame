@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_appqtFrame_FILE /home/firatozk/qtFrame/build/Desktop_Qt_6_11_1_Debug/appqtFrame)
-set(__QT_DEPLOY_TARGET_appqtFrame_TYPE EXECUTABLE)
